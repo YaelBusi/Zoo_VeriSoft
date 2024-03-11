@@ -1,0 +1,15 @@
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\bin\Debug\net6.0\VerisoftEx.exe
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\bin\Debug\net6.0\VerisoftEx.deps.json
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\bin\Debug\net6.0\VerisoftEx.runtimeconfig.json
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\bin\Debug\net6.0\VerisoftEx.dll
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\bin\Debug\net6.0\VerisoftEx.pdb
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\VerisoftEx.csproj.AssemblyReference.cache
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\VerisoftEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\VerisoftEx.AssemblyInfoInputs.cache
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\VerisoftEx.AssemblyInfo.cs
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\VerisoftEx.csproj.CoreCompileInputs.cache
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\VerisoftEx.dll
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\refint\VerisoftEx.dll
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\VerisoftEx.pdb
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\VerisoftEx.genruntimeconfig.cache
+D:\Users\ybusi\Downloads\New folder\VerisoftEx\VerisoftEx\obj\Debug\net6.0\ref\VerisoftEx.dll
